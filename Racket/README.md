@@ -1,3 +1,1 @@
-CD /D %~dp0
-dir
-pause
+Separate READMD files inside
